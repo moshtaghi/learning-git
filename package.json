@@ -1,0 +1,22 @@
+{
+  "name": "git-sample",
+  "version": "1.0.0",
+  "description": "# hello Iran!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moshtaghi/learning-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moshtaghi/learning-git/issues"
+  },
+  "homepage": "https://github.com/moshtaghi/learning-git#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
